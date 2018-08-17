@@ -20,3 +20,4 @@
 - Sorting: Bubble Sort
 - Tries: Contacts
 - Queues: A Tale of Two Stacks
+- Stacks: Balanced Brackets
