@@ -21,5 +21,6 @@
 - Sorting: Comparator
 - Sorting: Bubble Sort
 - Stacks: Balanced Brackets
+- Strings: Making Anagrams
 - Time Complexity: Primality
 - Tries: Contacts
