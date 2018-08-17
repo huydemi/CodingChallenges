@@ -12,4 +12,5 @@
 
 ### Cracking the Coding Interview
 - Merge Sort: Counting Inversions
-- InterviewTime Complexity: Primality
+- Time Complexity: Primality
+- Bit Manipulation: Lonely Integer
