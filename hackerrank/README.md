@@ -11,14 +11,15 @@
 ## Tutorials
 
 ### Cracking the Coding Interview
-- Merge Sort: Counting Inversions
-- Time Complexity: Primality
 - Bit Manipulation: Lonely Integer
-- Recursion: Fibonacci Numbers
 - Hash Tables: Ice Cream Parlor
+- Hash Tables: Ransom Note
+- Linked Lists: Detect a Cycle
+- Merge Sort: Counting Inversions
+- Queues: A Tale of Two Stacks
+- Recursion: Fibonacci Numbers
 - Sorting: Comparator
 - Sorting: Bubble Sort
-- Tries: Contacts
-- Queues: A Tale of Two Stacks
 - Stacks: Balanced Brackets
-- Linked Lists: Detect a Cycle
+- Time Complexity: Primality
+- Tries: Contacts
