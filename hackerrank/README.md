@@ -11,6 +11,7 @@
 ## Tutorials
 
 ### Cracking the Coding Interview
+- Arrays: Left Rotation
 - Bit Manipulation: Lonely Integer
 - Hash Tables: Ice Cream Parlor
 - Hash Tables: Ransom Note
