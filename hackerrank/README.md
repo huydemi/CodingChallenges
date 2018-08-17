@@ -17,3 +17,4 @@
 - Recursion: Fibonacci Numbers
 - Hash Tables: Ice Cream Parlor
 - Sorting: Comparator
+- Sorting: Bubble Sort
