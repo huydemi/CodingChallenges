@@ -18,3 +18,4 @@
 - Hash Tables: Ice Cream Parlor
 - Sorting: Comparator
 - Sorting: Bubble Sort
+- Tries: Contacts
