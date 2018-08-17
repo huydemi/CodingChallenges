@@ -1,3 +1,14 @@
 # hackerrank
+-----
+# Practice
+-----
+## Algorithms
 
-Practice > Algorithms > Strings > Alternating Characters
+### Strings
+
+- Alternating Characters
+
+## Tutorials
+
+### Cracking the Coding Interview
+- Merge Sort: Counting Inversions
