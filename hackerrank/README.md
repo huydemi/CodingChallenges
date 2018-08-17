@@ -21,3 +21,4 @@
 - Tries: Contacts
 - Queues: A Tale of Two Stacks
 - Stacks: Balanced Brackets
+- Linked Lists: Detect a Cycle
