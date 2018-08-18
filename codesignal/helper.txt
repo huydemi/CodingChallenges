@@ -1,0 +1,17 @@
+to print just "problem" area, add this
+
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  .markdown * {
+    visibility: visible;
+  }
+  .markdown {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+}
+
+to css file
