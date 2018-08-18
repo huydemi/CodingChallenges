@@ -23,6 +23,6 @@
 - sumOfTwo
 - sumInRange
 - arrayMaxConsecutiveSum2
-- firstLongestSubarrayBySum
+- findLongestSubarrayBySum
 - productExecptSelf
 - minSubstringWithAllChars
